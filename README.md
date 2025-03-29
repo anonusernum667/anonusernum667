@@ -1,5 +1,5 @@
 Welcome to My GitHub Profile!
-👋 About Me
+👋 
 Hello! I'm a computer science student with a passion for software development and technology. I enjoy building interactive web applications and exploring new technologies. Currently, I'm focused on learning and growing in the field of web development and soon i will start gamed dev :) .
 
 🌱 Technologies I'm Working With
